@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiathD
+- 👋 Hi, I’m @Dhiranjit Daimary
 - 👀 I’m interested in Data Analytics and Artificial Intelligence
 - 🌱 I’m currently learning in University and Online courses.
 - 💞️ I’m looking to collaborate on any open source projects which will help impact the society in a good way.
