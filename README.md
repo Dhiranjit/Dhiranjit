@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhiranjit Daimary
+- 👋 Hi, I’m @Dhiranjit
 - 👀 I’m currently studying Statistics and Data Science.
 - 💞️ Interested in AI/ML and solving real life problems.
 - 📫 How to reach me Dhiranjitdaimary@gmail.com
