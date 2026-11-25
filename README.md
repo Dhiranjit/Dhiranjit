@@ -8,6 +8,7 @@ Master's in Computational Statistics focused on **ML systems, LLM pre-training, 
 
 **Applied LLM Systems**
 - [`steep`](https://github.com/Dhiranjit/steep) — Full-stack YouTube-to-notes app with a clean UI; extracts transcripts via `yt-dlp`, summarizes them with an LLM, and stores notes in SQLite.
+- [`arxiv-paper-discovery`](https://github.com/Dhiranjit/arxiv-paper-discovery) — Fine-tuned SciBERT for multi-label classification of arXiv papers.Trained on 2.3M+ papers across 3 epochs on dual T4 GPUs (Kaggle)
 
 **Core Deep Learning from Scratch**
 - [`llm-from-scratch`](https://github.com/Dhiranjit/llm-from-scratch) — Progressive language model implementations from bigrams to causal multi-head self-attention and tokenizers, inspired by Karpathy's *Zero to Hero*.
