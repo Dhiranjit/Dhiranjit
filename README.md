@@ -1,6 +1,6 @@
 ### Dhiranjit Daimary
 
-Master's in Computational Statistics focused on **ML systems, LLM pre-training, and applied statistical modeling**. I build core frameworks from scratch to understand what happens under the hood—from deriving MLEs for loss functions and testing the statistical significance of evals, to designing clean, modular system architectures and end-to-end AI/ML pipelines.
+Master's in Computational Statistics focused on AI/ML and Agentic LLM applications. I build core frameworks from scratch to understand what happens under the hood—from deriving MLEs for loss functions to evals and designing clean, modular system architectures for end-to-end AI/ML pipelines.
 
 **Active Projects**
 - [`autarch-agent-runtime`](https://github.com/Dhiranjit/autarch-agent-runtime) — Personal assistant runtime for automating daily workflows with a clean UI, simple interfaces, strict data isolation, prompt-injection boundaries, and a robust permission manager.
